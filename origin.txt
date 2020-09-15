@@ -1,0 +1,224 @@
+Uri: https://winnerpremium.com/
+File Name: c:\Downloaded Web Sites\winnerpremium.com\index.htm
+Content Type: text/html
+
+Uri: https://winnerpremium.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/css/slicknav.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/css/style.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\css\style.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/index.php
+File Name: c:\Downloaded Web Sites\winnerpremium.com\index.html
+Content Type: text/html
+
+Uri: https://winnerpremium.com/giris.php
+File Name: c:\Downloaded Web Sites\winnerpremium.com\giris.html
+Content Type: text/html
+
+Uri: https://winnerpremium.com/kayit.php
+File Name: c:\Downloaded Web Sites\winnerpremium.com\kayit.html
+Content Type: text/html
+
+Uri: https://winnerpremium.com/img/play.png
+File Name: c:\Downloaded Web Sites\winnerpremium.com\img\play.png
+Content Type: image/png
+
+Uri: https://winnerpremium.com/img/services/service-icon-1.png
+File Name: c:\Downloaded Web Sites\winnerpremium.com\img\services\service-icon-1.png
+Content Type: image/png
+
+Uri: https://winnerpremium.com/img/services/service-icon-3.png
+File Name: c:\Downloaded Web Sites\winnerpremium.com\img\services\service-icon-3.png
+Content Type: image/png
+
+Uri: https://winnerpremium.com/img/services/service-icon-2.png
+File Name: c:\Downloaded Web Sites\winnerpremium.com\img\services\service-icon-2.png
+Content Type: image/png
+
+Uri: https://winnerpremium.com/img/services/service-icon-4.png
+File Name: c:\Downloaded Web Sites\winnerpremium.com\img\services\service-icon-4.png
+Content Type: image/png
+
+Uri: https://winnerpremium.com/js/jquery-3.3.1.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/js/mixitup.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\js\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/js/jquery.slicknav.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/js/main.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://winnerpremium.com/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\winnerpremium.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://winnerpremium.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://winnerpremium.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://winnerpremium.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://winnerpremium.com/img/testimonial/testimonial-bg.png
+File Name: c:\Downloaded Web Sites\winnerpremium.com\img\testimonial\testimonial-bg.png
+Content Type: image/png
+
+Uri: https://winnerpremium.com/girispaneli/vendor/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/fonts/Linearicons-Free-v1.0.0/icon-font.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\Linearicons-Free-v1.0.0\icon-font.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/vendor/animate/animate.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\animate\animate.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/vendor/css-hamburgers/hamburgers.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\css-hamburgers\hamburgers.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/vendor/select2/select2.min.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/css/util.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\css\util.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/css/main.css
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\css\main.css
+Content Type: text/css
+
+Uri: https://winnerpremium.com/girispaneli/vendor/jquery/jquery-3.2.1.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\jquery\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/girispaneli/vendor/bootstrap/js/popper.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\bootstrap\js\popper.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/girispaneli/vendor/bootstrap/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/girispaneli/vendor/select2/select2.min.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\vendor\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/girispaneli/js/main.js
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\js\main.js
+Content Type: application/javascript
+
+Uri: https://winnerpremium.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://winnerpremium.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://winnerpremium.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://winnerpremium.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://winnerpremium.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://winnerpremium.com/girispaneli/fonts/poppins/Poppins-Regular.ttf
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\poppins\Poppins-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/fonts/poppins/Poppins-Bold.ttf
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\poppins\Poppins-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/fonts/poppins/Poppins-Medium.ttf
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\poppins\Poppins-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/fonts/raleway/Raleway-Regular.ttf
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\raleway\Raleway-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/fonts/raleway/Raleway-Black.ttf
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\raleway\Raleway-Black.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/fonts/raleway/Raleway-SemiBold.ttf
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\raleway\Raleway-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/fonts/raleway/Raleway-Bold.ttf
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\fonts\raleway\Raleway-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://winnerpremium.com/girispaneli/images/img-01.png
+File Name: c:\Downloaded Web Sites\winnerpremium.com\girispaneli\images\img-01.png
+Content Type: image/png
+
